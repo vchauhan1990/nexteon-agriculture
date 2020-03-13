@@ -74,3 +74,13 @@ buildNumber.properties
 ### IntelliJ ###
 .idea/
 *.iml
+
+### Added by Vikas ###
+.idea
+*/target/*
+*.log
+*.dir
+.settings
+/classes/
+*.ipr
+*.iws
